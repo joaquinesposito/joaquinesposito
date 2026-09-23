@@ -55,8 +55,6 @@
 
 ## 🚀 Proyectos destacados
 
-> Acá van a ir mis mejores proyectos. Reemplazá estos ejemplos con los tuyos 👇
-
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | 🎓 **Sistema de Gestión Académica** | Sistema para administrar alumnos, materias y cursadas | `C#` `MySQL` |
